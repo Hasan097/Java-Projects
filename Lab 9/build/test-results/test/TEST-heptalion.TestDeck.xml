@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="heptalion.TestDeck" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-10-31T19:39:45" hostname="SFPD092351" time="0.0">
+  <properties/>
+  <testcase name="testDrawUnshuffled" classname="heptalion.TestDeck" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
